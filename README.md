@@ -12,5 +12,4 @@ This smart contract allows users to mint a digital representation of a property 
 - **Query Data:** Fetch the current state of a property, including its physical address, registered value, and current owner.
 - **Double-Registration Prevention:** Built-in validation checks to ensure a property ID cannot be registered twice, preserving data integrity.
 
-## Deployed Smart Contract Link: 
-[XXX] *(Replace this with your actual Stellar Explorer or Sorobannet link once deployed)*
+## Deployed Smart Contract Link: (https://stellar.expert/explorer/testnet/contract/CDNBBZDQPR6ZEAJWIUWRVV5IZPIVM3K46NMOHF7HEOZ2KOZWGEDUE2NA)
